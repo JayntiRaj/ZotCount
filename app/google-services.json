@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "246658327934",
+    "firebase_url": "https://zot-count.firebaseio.com",
+    "project_id": "zot-count",
+    "storage_bucket": "zot-count.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246658327934:android:364baf8932f7b9a5",
+        "android_client_info": {
+          "package_name": "com.example.jayntiraj.zotcount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246658327934-b7r63udorqfsk76dg1itq5i2pa5h001r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmn618I1vmtG1t8myPwiW1GKn-V_XzLTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
